@@ -1,0 +1,11 @@
+1. Write a program which reverse each element of singly linked list.
+
+2. Write a program which display all palindrome elements of singly linked list
+
+3. Write a program which display product of all digits of all element from singly linear linked list. (Don’t consider 0).
+
+4. Write a program which display smallest digits of all element from singly
+linear linked list.
+
+5. Write a program which display largest digits of all element from singly
+linear linked list.
